@@ -1,0 +1,16 @@
+.parentContainer {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  height: 100%;
+  width: 60%;
+  margin-top: 3rem;
+  gap: 10rem;
+}
+.landingContainer {
+  display: flex;
+  align-items: center;
+}
+
+.loginContainer {
+}
